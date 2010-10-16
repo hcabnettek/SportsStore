@@ -1,0 +1,16 @@
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.dll
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.dll
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.dll
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.dll
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.pdb
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.pdb
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.pdb
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.xml
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.xml

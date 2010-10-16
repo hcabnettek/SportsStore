@@ -1,0 +1,9 @@
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.xml

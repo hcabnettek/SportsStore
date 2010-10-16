@@ -1,0 +1,5 @@
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.Domain\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+c:\users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb

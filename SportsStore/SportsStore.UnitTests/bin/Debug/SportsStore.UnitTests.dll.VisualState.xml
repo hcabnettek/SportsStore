@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1028]C:\Users\hcabnettek\Documents\Visual Studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll</TopNode>
+  <SelectedNode>[0-1029]SportsStore</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1028]C:\Users\hcabnettek\Documents\Visual Studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1029]SportsStore" Expanded="true" />
+    <Node UniqueName="[0-1030]SportsStore.UnitTests" Expanded="true" />
+    <Node UniqueName="[0-1000]SportsStore.UnitTests.CatalogBrowsing" Expanded="true" />
+    <Node UniqueName="[0-1024]SportsStore.UnitTests.CatalogEditing" Expanded="true" />
+    <Node UniqueName="[0-1004]SportsStore.UnitTests.DisplayingPageLinks" Expanded="true" />
+    <Node UniqueName="[0-1007]SportsStore.UnitTests.NavigationByCategory" Expanded="true" />
+    <Node UniqueName="[0-1011]SportsStore.UnitTests.ShoppingCart" Expanded="true" />
+  </Nodes>
+</VisualState>

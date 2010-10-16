@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\hcabnettek\Documents\Visual Studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll" total="23" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-09-30" time="18:34:51">
+  <environment nunit-version="2.5.7.10213" clr-version="2.0.50727.4952" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Program Files\NUnit 2.5.7\bin\net-2.0" machine-name="SABRINE" user="hcabnettek" user-domain="SABRINE" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\hcabnettek\Documents\Visual Studio 2010\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll" executed="True" result="Success" success="True" time="1.155" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SportsStore" executed="True" result="Success" success="True" time="1.146" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="UnitTests" executed="True" result="Success" success="True" time="1.141" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="CatalogBrowsing" executed="True" result="Success" success="True" time="0.691" asserts="0">
+                <results>
+                  <test-case name="SportsStore.UnitTests.CatalogBrowsing.Can_View_A_Single_Page_Of_Products" executed="True" result="Success" success="True" time="0.633" asserts="3" />
+                  <test-case name="SportsStore.UnitTests.CatalogBrowsing.Can_View_Products_From_A_Single_Category" executed="True" result="Success" success="True" time="0.033" asserts="3" />
+                  <test-case name="SportsStore.UnitTests.CatalogBrowsing.Can_View_Products_From_All_Categories" executed="True" result="Success" success="True" time="0.002" asserts="3" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="CatalogEditing" executed="True" result="Success" success="True" time="0.159" asserts="0">
+                <results>
+                  <test-case name="SportsStore.UnitTests.CatalogEditing.Can_Access_Product_Editing_Screen" executed="True" result="Success" success="True" time="0.019" asserts="3" />
+                  <test-case name="SportsStore.UnitTests.CatalogEditing.Can_Delete_Product" executed="True" result="Success" success="True" time="0.088" asserts="2" />
+                  <test-case name="SportsStore.UnitTests.CatalogEditing.Can_Save_Edited_Product" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="DisplayingPageLinks" executed="True" result="Success" success="True" time="0.092" asserts="0">
+                <results>
+                  <test-case name="SportsStore.UnitTests.DisplayingPageLinks.Can_Generate_Links_To_Other_Pages" executed="True" result="Success" success="True" time="0.079" asserts="1" />
+                  <test-case name="SportsStore.UnitTests.DisplayingPageLinks.Product_Lists_Include_Correct_Page_Numbers" executed="True" result="Success" success="True" time="0.002" asserts="4" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="NavigationByCategory" executed="True" result="Success" success="True" time="0.065" asserts="0">
+                <results>
+                  <test-case name="SportsStore.UnitTests.NavigationByCategory.NavMenu_Highlights_Current_Category" executed="True" result="Success" success="True" time="0.030" asserts="1" />
+                  <test-case name="SportsStore.UnitTests.NavigationByCategory.NavMenu_Includes_Alphabetical_List_Of_Distinct" executed="True" result="Success" success="True" time="0.011" asserts="13" />
+                  <test-case name="SportsStore.UnitTests.NavigationByCategory.NavMenu_Shows_Home_Link_At_Top" executed="True" result="Success" success="True" time="0.004" asserts="5" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="ShoppingCart" executed="True" result="Success" success="True" time="0.110" asserts="0">
+                <results>
+                  <test-case name="SportsStore.UnitTests.ShoppingCart.After_Adding_Product_To_Cart_User_Goes_To_Your_Cart_Screen" executed="True" result="Success" success="True" time="0.011" asserts="2" />
+                  <test-case name="SportsStore.UnitTests.ShoppingCart.After_Checking_Out_Cart_Is_Emptied" executed="True" result="Success" success="True" time="0.010" asserts="0" />
+                  <test-case name="SportsStore.UnitTests.ShoppingCart.Can_Add_Product_To_Cart" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                  <test-case name="SportsStore.UnitTests.ShoppingCart.Can_Check_Out_And_Submit_Order" executed="True" result="Success" success="True" time="0.004" asserts="2" />
+                  <test-case name="SportsStore.UnitTests.ShoppingCart.Can_Remove_Product_From_Cart" executed="True" result="Success" success="True" time="0.007" asserts="2" />
+                  <test-case name="SportsStore.UnitTests.ShoppingCart.Can_View_Cart_Contents" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="SportsStore.UnitTests.ShoppingCart.Cannot_Check_Out_If_Cart_Is_Empty" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                  <test-case name="SportsStore.UnitTests.ShoppingCart.Cannot_Check_Out_If_Shipping_Details_Are_Invalid" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                  <test-case name="SportsStore.UnitTests.ShoppingCart.Cart_Can_Be_Cleared" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="SportsStore.UnitTests.ShoppingCart.Cart_Combines_Lines_With_Same_Product" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+                  <test-case name="SportsStore.UnitTests.ShoppingCart.Cart_Starts_Empty" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="SportsStore.UnitTests.ShoppingCart.Cart_TotalValue_Is_Sum_Of_Price_Times_Quantity" executed="True" result="Success" success="True" time="0.010" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
