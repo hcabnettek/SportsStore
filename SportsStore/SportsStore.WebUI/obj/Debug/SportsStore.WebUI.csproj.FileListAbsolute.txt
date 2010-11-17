@@ -7,3 +7,11 @@ C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStor
 C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
 C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.dll
 C:\Users\hcabnettek\documents\visual studio 2010\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\hcabnettek\Desktop\sportgit\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\hcabnettek\Desktop\sportgit\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\hcabnettek\Desktop\sportgit\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\hcabnettek\Desktop\sportgit\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\hcabnettek\Desktop\sportgit\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\hcabnettek\Desktop\sportgit\SportsStore\SportsStore.WebUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hcabnettek\Desktop\sportgit\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\hcabnettek\Desktop\sportgit\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb

@@ -91,6 +91,8 @@
     <Content Include="Content\adminstyles.css" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Scripts\fooDetails.js" />
+    <Content Include="Scripts\foo.js" />
     <Content Include="Views\Account\LogOn.aspx" />
     <Content Include="Views\Admin\Edit.aspx" />
     <Content Include="Views\Admin\Index.aspx" />
